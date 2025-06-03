@@ -110,7 +110,7 @@ while (1)
 ![image](https://github.com/user-attachments/assets/89443179-7bb1-490e-b88d-e152806b1f3a)
 
 ## Proteus layout(Add pdf screen shot of circuit here)
- ![image](https://github.com/user-attachments/assets/ce2e9e98-2eb7-4191-85a9-1a8fe0b19b50)
+![image](https://github.com/user-attachments/assets/ce2e9e98-2eb7-4191-85a9-1a8fe0b19b50)
 
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
